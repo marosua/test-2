@@ -14,14 +14,13 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+Our project is “A Visual Postcard of Arizona’s Historical Sites” which connects four different collections.
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+## Collection History
+
+The San Xavier del Bac Mission is also known as the “White Dove of the Desert”, is located in Tucson Arizona on the Tohono O’odham Nation Indian Reservation. The 
+mission was founded by Padre Eusebio Kino (Father Kino) in 1692. The mission continues to serve people today as a place of worship and sanctuary. Digital resources from this collection may include images of the inside and outside of the Mission.
