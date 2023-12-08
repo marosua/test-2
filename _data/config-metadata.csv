@@ -9,8 +9,11 @@ location,Location
 latitude,Latitude
 longitude,Longitude
 source,Source
+dpla_record,DPLA Record,,true
 identifier,Source Identifier,,
 type,Type,
 format,Format,
+file_size,File Size,,
+image_dimensions,Image Dimensions,,
 rights,Rights,
 rightsstatement,Rights Statement,,true
