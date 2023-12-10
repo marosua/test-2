@@ -11,7 +11,6 @@ credits: true
 {% include feature/jumbotron.html objectid= "coll012" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
 ## About the Collection
 
 Our project is “A Visual Postcard of Arizona’s Historical Sites” which connects four different collections.
